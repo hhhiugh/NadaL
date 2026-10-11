@@ -1,11 +1,11 @@
-
 {
-  "version": "1.0",
+  "version": "1.1",
   "updated": "2026-10-11",
+  "checkVersion": true,
   "libs": {
     "arm64-v8a": {
       "url": "https://github.com/hhhiugh/NadaL/raw/refs/heads/main/libstpengine.so",
-      "sha256": ""
+      "sha256": "6c8eb549d3dfb8d1f1981f075898779d5322a4143da635d543aece0d0583b623"
     },
     "armeabi-v7a": {
       "url": "",
